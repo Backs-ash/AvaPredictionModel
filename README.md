@@ -17,7 +17,7 @@ with ease.
 
 ---
 
-The data gets fed to a U-net[https://github.com/milesial/Pytorch-UNet] based
+The data gets fed to a [U-net](https://github.com/milesial/Pytorch-UNet) based
 neural network. The usage of this particular network is supported by a research
-conducted by Filippo Maria Bianchi et al.
-[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9254089]
+conducted by
+[Filippo Maria Bianchi et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9254089)
