@@ -50,7 +50,7 @@ Matthews correlation coefficient (MCC), AUROC, etc are being utilised by
 [Omid Rahmati et al.](https://www.mdpi.com/2072-4292/11/24/2995) in their
 reasearch about the prediction of geo-spatial occurance of an avalanche.
 
-Their proposed models perform fairly well to be used by our eco-system. It was
+Their proposed models performs fairly well to be used by our eco-system. It was
 also found that the LS of a region played the most prominent role relative to
 other factors when an avalanche was predicted.
 
@@ -61,5 +61,6 @@ other factors when an avalanche was predicted.
 
 The `data` folder contains all the necessary set-up for the training model(You
 may find you data sources over here). The test runs for the model will provide
-the output in this folder as well. <br> The `src` folder contains the source
+the output in this folder as well. <br> 
+The `src` folder contains the source
 files for the prposed four part machine learning model.
