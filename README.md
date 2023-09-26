@@ -65,10 +65,10 @@ FEATURES:
 The dashboard includes a left panel which shows the 
 
 => Monitors vital signs of individuals, including:
-Heartbeat
-Oxygen levels (O2)
-Body temperature
-Breaths per minute
+~ Heartbeat
+~ Oxygen levels (O2)
+~ Body temperature
+~ Breaths per minute
 
 =>Displays the exact location of each person on a map with a color theory where green is safe zone and red is danger, ensuring their safety. 
 
