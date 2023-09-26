@@ -54,6 +54,29 @@ Their proposed models perform fairly well to be used by our eco-system. It was
 also found that the LS of a region played the most prominent role relative to
 other factors when an avalanche was predicted.
 
+
+### Our Dashboard
+
+___
+
+The software will be enabled in the base station and then soldiers/ppl will be contacted through a radio jockey. This software will be able to show the predictions of an avalanche made by our radar and display it to people at the base camp to keep a check on the mountaineer's real time vitals, health and location with accuracy.
+
+FEATURES:
+The dashboard includes a left panel which shows the 
+
+=> Monitors vital signs of individuals, including:
+Heartbeat
+Oxygen levels (O2)
+Body temperature
+Breaths per minute
+
+=>Displays the exact location of each person on a map with a color theory where green is safe zone and red is danger, ensuring their safety. 
+
+=>Provides up-to-date weather forecasts for the region, helping mountaineers and base camp staff make informed decisions.
+
+=>Radio signal frequencies for communication in remote areas, ensuring reliable communication channels.
+
+
 ### Using the repository
 
 ---
